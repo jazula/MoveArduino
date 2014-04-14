@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map SD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Move	KEYWORD1
+goLeft	KEYWORD1
+goRight	KEYWORD1
+leftAs	KEYWORD1
+rightAs	KEYWORD1
+connectServos	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+forward 	KEYWORD2
+backwards 	KEYWORD2
+standStill 	KEYWORD2
+softForward	KEYWORD2
+softBackwards	KEYWORD2
